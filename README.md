@@ -10,6 +10,10 @@
 
 ---
 
+> 🚧 **Current status:** Actively building. The architecture, preprocessing pipeline, and evaluation code are in place. Dataset integration and full training runs are the next milestones. Metrics below will update as training completes. This repo is part of my learning journey toward CV engineering in healthcare imaging — each commit reflects real progress, not a finished product.
+
+---
+
 ## What This Is
 
 This project trains a binary image classifier to identify whether an MRI brain scan contains a tumor. It's one of the first things I built as I move toward a career in computer vision for healthcare imaging.
